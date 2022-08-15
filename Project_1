@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<head>
+  <title>Adnan Bhuiyan</title>
+  <style>
+    body {
+      text-align: center;
+      background: url("https://cdn.shopify.com/s/files/1/0053/6513/7472/products/New_York_Skyline.jpg?v=1548977322");
+      background-size: cover;
+      background-position: center;
+      color: white;
+      font-family: helvetica;
+    }
+    p {
+      font-size: 22px;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: red;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <img src="https://i.imgur.com/CkM1XKA.jpg" width="200" height="200"<br /><br />
+  <p>Hi! I'm Adnan, a student in NYC. Feel free to share your contact.</p>
+  <input type="email" placeholder="Your email"><br /><br />
+  <input type="text" placeholder="First name"><br /><br />
+  <input type="text" placeholder="Last name"><br /><br />
+  <input type="submit">
+</body>
